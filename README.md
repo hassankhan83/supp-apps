@@ -1,2 +1,0 @@
-# supp-apps
-Sample Applications
